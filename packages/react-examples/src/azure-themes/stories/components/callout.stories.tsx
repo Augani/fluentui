@@ -24,7 +24,7 @@ const styles = mergeStyleSets({
     padding: '18px 24px 12px',
   },
   title: [
-    theme.fonts.xLarge,
+    theme.fonts.large,
     {
       margin: 0,
       fontWeight: FontWeights.semilight,
@@ -41,7 +41,7 @@ const styles = mergeStyleSets({
     whiteSpace: 'nowrap',
   },
   subtext: [
-    theme.fonts.small,
+    theme.fonts.medium,
     {
       margin: 0,
       fontWeight: FontWeights.semilight,
